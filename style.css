@@ -1,7 +1,17 @@
 body {
     margin: 5; 
     background-image: url(https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/2/28/ysl5zoefwb8ustjwtsnc/sparks-shine-singapore-max);
+    background-repeat: no-repeat;
+    background-position:50% 0%;
     background-color: rgb(52, 37, 87);
+}
+/*#backgroundimg {
+    background: url(https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/2/28/ysl5zoefwb8ustjwtsnc/sparks-shine-singapore-max);
+    background-repeat: no-repeat;
+}*/
+/*Try image class for the background image*/
+button-container{
+    display: flex;
 }
 h1 {
     font-size: 60px;
